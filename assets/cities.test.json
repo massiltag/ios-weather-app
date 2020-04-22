@@ -1,0 +1,1162 @@
+[
+  {
+    "id": 2968781,
+    "name": "Villefagnan",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.07936,
+      "lat": 46.011398
+    }
+  },
+  {
+    "id": 2968797,
+    "name": "Villedômer",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.88775,
+      "lat": 47.546509
+    }
+  },
+  {
+    "id": 2968800,
+    "name": "Villedieu-sur-Indre",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 1.53975,
+      "lat": 46.845982
+    }
+  },
+  {
+    "id": 2968801,
+    "name": "Villedieu-les-Poêles",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -1.21667,
+      "lat": 48.833328
+    }
+  },
+  {
+    "id": 2968802,
+    "name": "Villedieu-lès-Bailleul",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.0171,
+      "lat": 48.813511
+    }
+  },
+  {
+    "id": 2968805,
+    "name": "Villedieu-la-Blouère",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -1.06286,
+      "lat": 47.147381
+    }
+  },
+  {
+    "id": 2968815,
+    "name": "Paris",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.3486,
+      "lat": 48.853401
+    }
+  },
+  {
+    "id": 2968819,
+    "name": "Ville-d'Avray",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.19311,
+      "lat": 48.823582
+    }
+  },
+  {
+    "id": 2968822,
+    "name": "Villecroze",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 6.27542,
+      "lat": 43.58181
+    }
+  },
+  {
+    "id": 2968823,
+    "name": "Villecresnes",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.5394,
+      "lat": 48.72002
+    }
+  },
+  {
+    "id": 2968833,
+    "name": "Villechien",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.98652,
+      "lat": 48.578629
+    }
+  },
+  {
+    "id": 2968855,
+    "name": "Villebret",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.63827,
+      "lat": 46.26685
+    }
+  },
+  {
+    "id": 2968856,
+    "name": "Villebramar",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.47572,
+      "lat": 44.527519
+    }
+  },
+  {
+    "id": 2968861,
+    "name": "Villebon-sur-Yvette",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.24019,
+      "lat": 48.70594
+    }
+  },
+  {
+    "id": 2968865,
+    "name": "Villebois-les-Pins",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 5.60934,
+      "lat": 44.318481
+    }
+  },
+  {
+    "id": 2968867,
+    "name": "Villebois",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 5.43226,
+      "lat": 45.849468
+    }
+  },
+  {
+    "id": 2968869,
+    "name": "Villeblevin",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.08038,
+      "lat": 48.324459
+    }
+  },
+  {
+    "id": 2968873,
+    "name": "Villebernier",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.0323,
+      "lat": 47.253738
+    }
+  },
+  {
+    "id": 2968877,
+    "name": "Villebaudon",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -1.16631,
+      "lat": 48.959171
+    }
+  },
+  {
+    "id": 2968879,
+    "name": "Villebarou",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 1.32252,
+      "lat": 47.62344
+    }
+  },
+  {
+    "id": 2968880,
+    "name": "Villebadin",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.15277,
+      "lat": 48.780449
+    }
+  },
+  {
+    "id": 2968894,
+    "name": "Villé",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 7.30574,
+      "lat": 48.342659
+    }
+  },
+  {
+    "id": 2968897,
+    "name": "Villaz",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 6.18717,
+      "lat": 45.950691
+    }
+  },
+  {
+    "id": 2968900,
+    "name": "Villaudric",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 1.43166,
+      "lat": 43.830441
+    }
+  },
+  {
+    "id": 2968906,
+    "name": "Villasavary",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.04073,
+      "lat": 43.220058
+    }
+  },
+  {
+    "id": 2968917,
+    "name": "Villars-les-Dombes",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 5.02905,
+      "lat": 46.00227
+    }
+  },
+  {
+    "id": 2968929,
+    "name": "Villar-Saint-Pancrace",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 6.62669,
+      "lat": 44.87318
+    }
+  },
+  {
+    "id": 2968935,
+    "name": "Villars",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 4.35447,
+      "lat": 45.47118
+    }
+  },
+  {
+    "id": 2968936,
+    "name": "Villars",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.75376,
+      "lat": 45.419689
+    }
+  },
+  {
+    "id": 2968951,
+    "name": "Villargondran",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 6.3695,
+      "lat": 45.27113
+    }
+  },
+  {
+    "id": 2968984,
+    "name": "Villard-de-Lans",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 5.55281,
+      "lat": 45.070702
+    }
+  },
+  {
+    "id": 2968985,
+    "name": "Villard-Bonnot",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 5.89015,
+      "lat": 45.240002
+    }
+  },
+  {
+    "id": 2969013,
+    "name": "Villandry",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.5105,
+      "lat": 47.340191
+    }
+  },
+  {
+    "id": 2969015,
+    "name": "Villandraut",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.37131,
+      "lat": 44.457298
+    }
+  },
+  {
+    "id": 2969032,
+    "name": "Villaines-la-Juhel",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.27734,
+      "lat": 48.344158
+    }
+  },
+  {
+    "id": 2969046,
+    "name": "Village-Neuf",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 7.57019,
+      "lat": 47.59016
+    }
+  },
+  {
+    "id": 2969058,
+    "name": "Villabé",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.45096,
+      "lat": 48.589489
+    }
+  },
+  {
+    "id": 2969064,
+    "name": "Vilcey-sur-Trey",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 5.97305,
+      "lat": 48.93391
+    }
+  },
+  {
+    "id": 2969073,
+    "name": "Vihiers",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.53238,
+      "lat": 47.146309
+    }
+  },
+  {
+    "id": 2969074,
+    "name": "Vigy",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 6.29883,
+      "lat": 49.20356
+    }
+  },
+  {
+    "id": 2969078,
+    "name": "Vigouroux",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.79801,
+      "lat": 44.951321
+    }
+  },
+  {
+    "id": 2969083,
+    "name": "Vigny",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 1.92806,
+      "lat": 49.079021
+    }
+  },
+  {
+    "id": 2969084,
+    "name": "Vigny",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 6.2484,
+      "lat": 48.967911
+    }
+  },
+  {
+    "id": 2969087,
+    "name": "Vignoux-sur-Barangeon",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.17258,
+      "lat": 47.20068
+    }
+  },
+  {
+    "id": 2969092,
+    "name": "Vignot",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 5.60904,
+      "lat": 48.774181
+    }
+  },
+  {
+    "id": 2969095,
+    "name": "Vignonet",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.16667,
+      "lat": 44.849998
+    }
+  },
+  {
+    "id": 2969105,
+    "name": "Vignoc",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -1.78169,
+      "lat": 48.248421
+    }
+  },
+  {
+    "id": 2969109,
+    "name": "Vigneux-sur-Seine",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.41357,
+      "lat": 48.702911
+    }
+  },
+  {
+    "id": 2969111,
+    "name": "Vigneux-de-Bretagne",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -1.73678,
+      "lat": 47.32547
+    }
+  },
+  {
+    "id": 2969113,
+    "name": "Vigneulles-lès-Hattonchâtel",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 5.70464,
+      "lat": 48.981522
+    }
+  },
+  {
+    "id": 2969136,
+    "name": "Vignats",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.10418,
+      "lat": 48.854431
+    }
+  },
+  {
+    "id": 2969141,
+    "name": "Vignale",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 9.32598,
+      "lat": 42.470451
+    }
+  },
+  {
+    "id": 2969146,
+    "name": "Vignacourt",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.19743,
+      "lat": 50.01236
+    }
+  },
+  {
+    "id": 2969154,
+    "name": "Vigeois",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 1.51635,
+      "lat": 45.380138
+    }
+  },
+  {
+    "id": 2969157,
+    "name": "Arrondissement du Vigan",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.66667,
+      "lat": 44
+    }
+  },
+  {
+    "id": 2969160,
+    "name": "Vif",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 5.67757,
+      "lat": 45.054359
+    }
+  },
+  {
+    "id": 2969176,
+    "name": "Vieux-Thann",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 7.12068,
+      "lat": 47.803471
+    }
+  },
+  {
+    "id": 2969190,
+    "name": "Vieux-Pont",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.14424,
+      "lat": 48.649929
+    }
+  },
+  {
+    "id": 2969196,
+    "name": "Vieux-Mareuil",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.5,
+      "lat": 45.433331
+    }
+  },
+  {
+    "id": 2969197,
+    "name": "Le Vieux-Marché",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -3.45,
+      "lat": 48.599998
+    }
+  },
+  {
+    "id": 2969201,
+    "name": "Vieux-Lixheim",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 7.1303,
+      "lat": 48.777241
+    }
+  },
+  {
+    "id": 2969213,
+    "name": "Vieux-Condé",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.56738,
+      "lat": 50.459438
+    }
+  },
+  {
+    "id": 2969219,
+    "name": "Vieux-Charmont",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 6.83738,
+      "lat": 47.5219
+    }
+  },
+  {
+    "id": 2969233,
+    "name": "Vieux-Boucau-les-Bains",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -1.39957,
+      "lat": 43.789471
+    }
+  },
+  {
+    "id": 2969234,
+    "name": "Vieux-Berquin",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.64444,
+      "lat": 50.694889
+    }
+  },
+  {
+    "id": 2969237,
+    "name": "Vieux",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.43381,
+      "lat": 49.10725
+    }
+  },
+  {
+    "id": 2969242,
+    "name": "Vieure",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.86887,
+      "lat": 46.501331
+    }
+  },
+  {
+    "id": 2969250,
+    "name": "Viesly",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.46236,
+      "lat": 50.15345
+    }
+  },
+  {
+    "id": 2969253,
+    "name": "Vierzon-Village",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.08333,
+      "lat": 47.23333
+    }
+  },
+  {
+    "id": 2969257,
+    "name": "Vierzon",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.08333,
+      "lat": 47.216671
+    }
+  },
+  {
+    "id": 2969276,
+    "name": "Vienne-en-Val",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.1346,
+      "lat": 47.800362
+    }
+  },
+  {
+    "id": 2969280,
+    "name": "Vienne",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.5,
+      "lat": 46.5
+    }
+  },
+  {
+    "id": 2969282,
+    "name": "Arrondissement de Vienne",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 5,
+      "lat": 45.5
+    }
+  },
+  {
+    "id": 2969284,
+    "name": "Vienne",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 4.86667,
+      "lat": 45.51667
+    }
+  },
+  {
+    "id": 2969285,
+    "name": "Viennay",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.24641,
+      "lat": 46.687111
+    }
+  },
+  {
+    "id": 2969291,
+    "name": "Vielmur-sur-Agout",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.1,
+      "lat": 43.616669
+    }
+  },
+  {
+    "id": 2969295,
+    "name": "Vielle-Tursan",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.44941,
+      "lat": 43.67569
+    }
+  },
+  {
+    "id": 2969297,
+    "name": "Vielle-Soubiran",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.18421,
+      "lat": 44.043598
+    }
+  },
+  {
+    "id": 2969298,
+    "name": "Vielleségure",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.68333,
+      "lat": 43.349998
+    }
+  },
+  {
+    "id": 2969299,
+    "name": "Vielle-Saint-Girons",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -1.3,
+      "lat": 43.950001
+    }
+  },
+  {
+    "id": 2969302,
+    "name": "Viellenave-d'Arthez",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.48333,
+      "lat": 43.416672
+    }
+  },
+  {
+    "id": 2969316,
+    "name": "Vieillevigne",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -1.43405,
+      "lat": 46.972141
+    }
+  },
+  {
+    "id": 2969320,
+    "name": "Vieille-Toulouse",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 1.4423,
+      "lat": 43.523659
+    }
+  },
+  {
+    "id": 2969329,
+    "name": "Vieille-Église",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.07671,
+      "lat": 50.92823
+    }
+  },
+  {
+    "id": 2969333,
+    "name": "Vieille-Brioude",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.40272,
+      "lat": 45.266479
+    }
+  },
+  {
+    "id": 2969352,
+    "name": "Videcosville",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -1.37182,
+      "lat": 49.56189
+    }
+  },
+  {
+    "id": 2969353,
+    "name": "Vidauban",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 6.4329,
+      "lat": 43.427799
+    }
+  },
+  {
+    "id": 2969362,
+    "name": "Victot-Pontfol",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.01414,
+      "lat": 49.162682
+    }
+  },
+  {
+    "id": 2969364,
+    "name": "Vic-sur-Seille",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 6.53081,
+      "lat": 48.78204
+    }
+  },
+  {
+    "id": 2969365,
+    "name": "Vic-sur-Cère",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.62485,
+      "lat": 44.97929
+    }
+  },
+  {
+    "id": 2969366,
+    "name": "Vic-sur-Aisne",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.11222,
+      "lat": 49.40609
+    }
+  },
+  {
+    "id": 2969369,
+    "name": "Vicques",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.07642,
+      "lat": 48.947701
+    }
+  },
+  {
+    "id": 2969373,
+    "name": "Vicq-sur-Breuilh",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 1.38179,
+      "lat": 45.64661
+    }
+  },
+  {
+    "id": 2969375,
+    "name": "Vicq-d'Auribat",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.85869,
+      "lat": 43.785061
+    }
+  },
+  {
+    "id": 2969376,
+    "name": "Vicq",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.60348,
+      "lat": 50.407379
+    }
+  },
+  {
+    "id": 2969381,
+    "name": "Vicq",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.74622,
+      "lat": 44.89875
+    }
+  },
+  {
+    "id": 2969386,
+    "name": "Vico",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 8.80022,
+      "lat": 42.167259
+    }
+  },
+  {
+    "id": 2969388,
+    "name": "Vic-le-Comte",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.24638,
+      "lat": 45.643169
+    }
+  },
+  {
+    "id": 2969389,
+    "name": "Vic-la-Gardiole",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.7975,
+      "lat": 43.490799
+    }
+  },
+  {
+    "id": 2969391,
+    "name": "Arrondissement de Vichy",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.58333,
+      "lat": 46.25
+    }
+  },
+  {
+    "id": 2969392,
+    "name": "Vichy",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.41667,
+      "lat": 46.116669
+    }
+  },
+  {
+    "id": 2969400,
+    "name": "Vic-Fezensac",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.31368,
+      "lat": 43.771832
+    }
+  },
+  {
+    "id": 2969401,
+    "name": "Vic-en-Bigorre",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.05,
+      "lat": 43.383331
+    }
+  },
+  {
+    "id": 2969411,
+    "name": "Vibraye",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.74171,
+      "lat": 48.056068
+    }
+  },
+  {
+    "id": 2969421,
+    "name": "Vias",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.41774,
+      "lat": 43.311562
+    }
+  },
+  {
+    "id": 2969423,
+    "name": "Viarmes",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.37074,
+      "lat": 49.130821
+    }
+  },
+  {
+    "id": 2969427,
+    "name": "Vianne",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 0.32104,
+      "lat": 44.196579
+    }
+  },
+  {
+    "id": 2969437,
+    "name": "Vialette",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.86371,
+      "lat": 45.120682
+    }
+  },
+  {
+    "id": 2969438,
+    "name": "Vialer",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.16667,
+      "lat": 43.5
+    }
+  },
+  {
+    "id": 2969440,
+    "name": "Viale",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 1.12515,
+      "lat": 45.528961
+    }
+  },
+  {
+    "id": 2969444,
+    "name": "Vialard",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.18514,
+      "lat": 45.102139
+    }
+  },
+  {
+    "id": 2969463,
+    "name": "Vezins",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -0.70971,
+      "lat": 47.120152
+    }
+  },
+  {
+    "id": 2969465,
+    "name": "Vezin-le-Coquet",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": -1.75466,
+      "lat": 48.118568
+    }
+  },
+  {
+    "id": 2969470,
+    "name": "Vézézoux",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 3.34812,
+      "lat": 45.40432
+    }
+  },
+  {
+    "id": 2969474,
+    "name": "Vézénobres",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 4.13775,
+      "lat": 44.0513
+    }
+  },
+  {
+    "id": 2969477,
+    "name": "Vézelise",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 6.08894,
+      "lat": 48.48682
+    }
+  }
+]
