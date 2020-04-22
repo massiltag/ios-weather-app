@@ -1,6 +1,5 @@
 import Foundation
 
-
 // Get cities from JSON
 func getCitiesFromJSON(fileName: String) -> [City] {
   var cities: [City] = []
@@ -18,8 +17,7 @@ func askForCity() -> String {
   return responseToPrompt("Search for a city : ↓")
 }
 
-// Get a city's ID from its name
-// TODO support multiple cities + autocompletion
+// Get an array of cities matching search criteria (contains)
 func getIdsFromCityName(_ cityName: String, _ cities: [City]) -> [City] {
   var search: [City] = []
   for city in cities {
@@ -44,7 +42,13 @@ func getCityFromId(_ id: Int, _ cities: [City]) -> City? {
 
 /*
 *   API CALLS
+*   Links :
+*       - City list (JSON)              @ http://bulk.openweathermap.org/sample/
+*       - Current weather endpoint      @ https://openweathermap.org/current
+*       - Five day forecast endpoint    @ https://openweathermap.org/forecast5
 */
+
+// Get current weather from city ID (API Call)
 func getCurrentWeather(_ cityId: Int) -> Void {
   let baseUrl = URL(string: "https://api.openweathermap.org/data/2.5/weather?")!;
   let query: [String: String] = [ 
@@ -74,7 +78,7 @@ func getCurrentWeather(_ cityId: Int) -> Void {
   task.resume()
 }
 
-
+// Get 5-day forecast from cityID (API Call)
 func getForecast(_ cityId: Int) -> Void {
   let baseUrl = URL(string: "https://api.openweathermap.org/data/2.5/forecast?")!;
   let query: [String: String] = [ 

@@ -45,12 +45,3 @@ func JSONtoData(fileName: String) -> Data? {
 func toCelsius(_ k: Double) -> Double {
   return Double(Int((k - 273.15)*10)) / 10
 }
-
-func isIdInArray(_ id: Int, _ array: [City]) -> Bool {
-  for elt in array {
-    if elt.id == id {
-      return true
-    }
-  }
-  return false
-}
