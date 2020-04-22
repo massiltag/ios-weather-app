@@ -1,7 +1,7 @@
 import Foundation
 
 // Change to ".assets/cities" for full set
-var cities: [City] = getCitiesFromJSON(fileName: ".assets/cities.test")
+var cities: [City] = getCitiesFromJSON(fileName: "assets/cities.test")
 
 let cityName = askForCity()
 
