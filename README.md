@@ -1,7 +1,7 @@
 # iOS Weather App #
 
-This is a simple weather app made for educational purposes by Sorbonne University undergraduate students (L3 DANT).\
-Supervised by [Adrien HumiliÃ¨re](mailto:adhumi+dant@gmail.com).
+This is a simple weather app made for educational purposes by Sorbonne University undergraduate students (L3 DANT).  
+Supervised by [Adrien Humilière](mailto:adhumi+dant@gmail.com).
 
 ## Features ##
 
