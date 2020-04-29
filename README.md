@@ -6,9 +6,9 @@ Supervised by [Adrien Humilière](mailto:adhumi+dant@gmail.com).
 ## Presentation ##
 This project uses the [OpenWeatherMap API](https://openweathermap.org/api), which provides two endpoints and
 a JSON file that we will use in this app :  
-* [Current weather data](https://openweathermap.org/current) for getting current weather in a location  
-* [Five days forecast](https://openweathermap.org/forecast5) for getting a five-day forecast in a location  
-* [Cities list JSON](http://bulk.openweathermap.org/sample/) for searching a city  
+- [Current weather data](https://openweathermap.org/current) for getting current weather in a location  
+- [Five days forecast](https://openweathermap.org/forecast5) for getting a five-day forecast in a location  
+- [Cities list JSON](http://bulk.openweathermap.org/sample/) for searching a city  
 
 ## Features ##
 
