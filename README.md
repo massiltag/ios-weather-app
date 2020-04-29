@@ -4,10 +4,11 @@ This is a simple weather app made for educational purposes by a Sorbonne Univers
 Supervised by [Adrien Humilière](mailto:adhumi+dant@gmail.com).
 
 ## Presentation ##
-This project uses the [OpenWeatherMap API](https://openweathermap.org/api), which provides two endpoints that we
-will use in this app :
-* [Current weather data](https://openweathermap.org/current) for getting current weather in a location.
-* [Five days forecast](https://openweathermap.org/forecast5) for getting a five-day forecast in a location.
+This project uses the [OpenWeatherMap API](https://openweathermap.org/api), which provides two endpoints and
+a JSON file that we will use in this app :
+* [Current weather data](https://openweathermap.org/current) for getting current weather in a location
+* [Five days forecast](https://openweathermap.org/forecast5) for getting a five-day forecast in a location
+* [Cities list JSON](http://bulk.openweathermap.org/sample/) for searching a city
 
 ## Features ##
 
@@ -30,6 +31,6 @@ will use in this app :
 
 
 ## Author ##
-[Massil Taguemout](mailto:massitaguemout@gmail.com)  
-Licence Info DANT  
-[Sorbonne University](http://www.sorbonne-universite.fr/)
+[Massil Taguemout](https://www.linkedin.com/in/mtag/)  
+Apprenti Développeur SI @ [GRTgaz](http://www.grtgaz.com/)  
+Licence DANT, [Sorbonne Université](http://www.sorbonne-universite.fr/)
