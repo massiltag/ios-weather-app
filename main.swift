@@ -1,7 +1,7 @@
 import Foundation
 
 // Change to ".assets/cities" for full set
-var cities: [City] = getCitiesFromJSON(fileName: "assets/cities.test")
+var cities: [City] = getCitiesFromJSON(fileName: ".assets/cities.france")
 
 let cityName = askForCity()
 
@@ -17,8 +17,20 @@ if searchResults.count != 0 {
     }
     var pickedIndex = 0
     while (pickedIndex <= 0 || pickedIndex > searchResults.count) {
-      let input = responseToPrompt("Your choice ↓")
-      pickedIndex = Int(input)!
+      usleep(1000000)
+      let input = responseToPrompt("Select an index ↓ (Separated by commas for multiple cities)")
+      if input.contains(",") {
+        let inputArray = input.split{$0 == ","}.map(String.init)
+        for ind in inputArray {
+          if let casted = Int(ind.trimmingCharacters(in: .whitespaces)) {
+            if !(casted <= 0 || casted > searchResults.count) {
+              getCurrentWeather(searchResults[casted-1].id)
+            }
+          }
+        }
+      } else {
+        pickedIndex = Int(input)!
+      }
     }
     cityId = searchResults[pickedIndex-1].id
     print("You have chosen \(searchResults[pickedIndex-1].name) \(searchResults[pickedIndex-1].country)")
